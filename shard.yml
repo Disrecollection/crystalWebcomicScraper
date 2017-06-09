@@ -1,0 +1,16 @@
+name: crystalWebcomicScraper
+version: 0.1.0
+
+authors:
+  - Disrecollection <raatech@protonmail.ch>
+
+targets:
+  crystalWebcomicScraper:
+    main: ./mainProg.cr
+dependencies:
+  crystagiri:
+    github: madeindjs/crystagiri
+
+crystal: 0.22.0
+
+license: MIT
