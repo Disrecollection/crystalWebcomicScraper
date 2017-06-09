@@ -1,18 +1,18 @@
 # crystalWebcomicScraper
 
-TODO: Write a description here
+Just a quick generic multi-purpose comic scraper. Currently it works for only a small set of comics, but with an identifier algo instead of or beside the user input for XML, it would be much better.
 
 ## Installation
 
-TODO: Write installation instructions here
+No clue. I guess it needs the Crystal compiler, and uses the Crystagiri shard.
 
 ## Usage
 
-TODO: Write usage instructions here
+Run from terminal, follow the instructions.
 
 ## Development
 
-TODO: Write development instructions here
+If for some reason this project interests you, go ahead, give me a request, but it really just is a little side project.
 
 ## Contributing
 
@@ -24,4 +24,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [[your-github-name]](https://github.com/[your-github-name]) Disrecollection - creator, maintainer
+- [Disrecollection](https://github.com/[your-github-name]) Disrecollection - creator, maintainer
